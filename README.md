@@ -1,4 +1,3 @@
-# hello-world
+# Hi
 
-Coding? Cooking?
-Yeah, they both are awesome!
+Welcome to my coding kitchen!
